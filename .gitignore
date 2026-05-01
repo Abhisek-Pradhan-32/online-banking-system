@@ -1,0 +1,6 @@
+.idea/
+banking-frontend/node_modules/
+banking-frontend/dist/
+banking-backend/target/
+.env
+application-dev.properties
